@@ -1,0 +1,23 @@
+{
+  "name": "chat-react",
+  "version": "0.0.1",
+  "description": "New react version of the chat application",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wallindev/chat-react.git",
+    "url-bitbucket": "git+https://bitbucket.org/wallindev/chat-react.git"
+  },
+  "keywords": [
+    "chat",
+    "react",
+    "node.js",
+    "socket.io"
+  ],
+  "author": "Mikael Wallin, wallindev",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/wallindev/chat-react#readme"
+}
